@@ -1,9 +1,75 @@
 @charset "UTF-8";
 
 @media screen and (min-width: 768px) and (max-width:992px){
-
+    header img {
+        width: 210px;
+        padding: 25px;
+    }
+    section {
+        display: flex;
+    }
+    section h1 {
+        position: absolute;
+        top: 18%;
+        left: 30%;
+    }
+    input#iemail {
+        position: absolute;
+        top: 25%;
+        left: 30%;
+    }
+    input#isenha {
+        position: absolute;
+        top: 32%;
+        left: 30%;
+    }
+    #entrar {
+        position: absolute;
+        top: 43%;
+        left: 30%;
+    }
+    #lembrar {
+        left: 30%;
+    }
+    #lemb {
+        position: absolute;
+        left: 33%;
+    }
+    #ajuda {
+        display: flex;
+        justify-content: right;   /*olhar novamente */
+    }
+    #novoporaqui {
+        position: absolute;
+        left: 30%;
+    }
+    #saibamais0 {
+        width: 20.2em;
+        position: absolute;
+        left: 30%;
+        font-size: 1em;
+    }
+    #infgoogle {
+        position: absolute;
+        left: 30%;
+    }
+    #Duvidas{
+        position: absolute;
+        left: 30%;
+    }
+    ul {
+        position: absolute;
+        left: 30%;
+    }
+    #idioma p {
+        position: absolute;
+        top: 105%;
+        left: 33%;
+    }
+    #idioma img {
+        position: absolute;
+        top: 105%;
+        left: 30%;
+    }
 }
 
-@media screen and (min-width: 992px) and (max-width: 1200px){
-    
-}
