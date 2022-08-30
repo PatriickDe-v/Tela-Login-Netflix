@@ -1,0 +1,186 @@
+@charset "UTF-8";
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body {
+    background-color: black;
+}
+
+header img {
+    width: 80px;
+    padding-top: 20px;
+    padding-left: 12px;
+}
+
+section {
+    padding: 10px;
+}
+
+section h1 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2em;
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-bottom: 20px;
+    
+}
+input#iemail {
+    background-color: #e8f0fe;
+    padding: 3px;
+    position: absolute;
+    top: 18%;
+    left: 5%;
+    width: 24.3em;
+    height: 4.1em;
+    border-radius: 5px;
+    border: none;
+}
+input#isenha {
+    background-color: #e8f0fe;
+    padding: 3px;
+    position: absolute;
+    top: 27.5%;
+    left: 5%;
+    width: 24.3em;
+    height: 4.1em;
+    border-radius: 5px;
+    border: none;
+}
+
+#entrar {
+    background-color: #e50914;
+    width: 20.2em;
+    height: 50px;
+    position: absolute;
+    top: 40%;
+    left: 5%;
+    border-radius: 3px;
+}
+#entrar a p {
+    position: absolute;
+    left: 45%;
+    top: 30%;
+    left: 43%;
+    color: white;
+    font-size: 1em;
+    font-family: Arial, Helvetica, sans-serif
+}
+#lembrar {
+    border: none;
+    position: absolute;
+    top:49.5%;
+    left: 5%;
+
+}
+#lemb {
+    color: #969191;
+    position: absolute;
+    top: 49.5%;
+    left: 10%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.8em;
+}
+#ajuda a {
+    text-decoration: none;
+    color: #969191;
+    position: absolute;
+    top: 49.5%;
+    left: 62%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.8em;
+}
+
+#ajuda a:hover {
+    text-decoration: underline;
+}
+
+#novoporaqui {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #969191;
+    position: absolute;
+    top: 58%;
+    left: 5%;
+}
+#novoporaqui a {
+    color: white;
+    text-decoration: none;
+}
+
+#saibamais0 {
+    font-size: 0.8em;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 63%;
+    left: 5%;
+    color: #969191;
+}
+
+#saibamais0 a {
+    color: #006ece;
+    text-decoration: none;
+}
+#saibamais0 a:hover {
+    text-decoration: underline;
+}
+
+#infgoogle {
+    width: 24.3em;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.8em;
+    color: #969191;
+    position: absolute;
+    top: 70%;
+    left: 7%;
+}
+#infgoogle a {
+    color: #006ece;
+    text-align: none;
+}
+
+#Duvidas {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.9em;
+    position: absolute;
+    top: 90%;
+    left: 6%;
+    color: #969191;
+}
+ul {
+    position: absolute;
+    top: 95%;
+    left: 5%;
+    columns: 2;
+}
+ul li {
+    padding: 5px;
+}
+ul li a {
+    color: #969191;
+    font-size: 0.8em;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+
+ul li a:hover {
+    text-decoration: underline;
+}
+
+#idioma img {
+    position: absolute;
+    top: 110%;
+    left: 7%;
+    width: 20px;
+}
+
+#idioma p {
+    font-size: 0.9em;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #969191;
+    position: absolute;
+    top: 111%;
+    left: 15%;
+    padding-bottom: 10px;
+}
