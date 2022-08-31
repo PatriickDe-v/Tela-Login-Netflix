@@ -149,6 +149,7 @@ input#isenha {
     color: #969191;
 }
 ul {
+    list-style-type: none;
     position: absolute;
     top: 95%;
     left: 5%;
