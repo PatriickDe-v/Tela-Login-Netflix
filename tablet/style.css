@@ -35,9 +35,8 @@
         position: absolute;
         left: 33%;
     }
-    #ajuda {
-        display: flex;
-        justify-content: right;   /*olhar novamente */
+    #ajuda a {
+        left: 56%;  /*olhar novamente */
     }
     #novoporaqui {
         position: absolute;
